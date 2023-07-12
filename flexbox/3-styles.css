@@ -379,7 +379,7 @@
   /* Section SERVICES ============================= */
   /*** 4. CARD ***/
   
-  .section-services .row{
+  .section-services .row {
     flex-wrap: wrap;
   }
   /* Card (all styles)
