@@ -1,0 +1,1 @@
+Our project is centered around creating an amazing website based on the fantastic designs provided in Figma. These designs serve as our creative blueprint, guiding us in crafting a visually stunning and user-friendly web experience.
